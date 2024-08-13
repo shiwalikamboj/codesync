@@ -1,3 +1,1 @@
-### Demo
-
-https://code-sync.codersgyan.com/
+this is code collabration real time editor
